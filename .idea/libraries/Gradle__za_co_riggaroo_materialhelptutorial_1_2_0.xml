@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: za.co.riggaroo:materialhelptutorial-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/materialhelptutorial-1.2.0.aar/123927abba74b0134d75551b0c4cc7ff/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/materialhelptutorial-1.2.0.aar/123927abba74b0134d75551b0c4cc7ff/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/za.co.riggaroo/materialhelptutorial/1.2.0/fdccd79990f7caa2d065c1c7494ddb2fdd828be8/materialhelptutorial-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
